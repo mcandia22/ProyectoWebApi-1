@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\App_Code",
+    "\\WebApi",
+    "\\WebApi\\App_Start",
+    "\\WebApi\\bin\\es",
+    "\\WebApi\\Controllers",
+    "\\WebApi\\obj",
+    "\\WebApi\\obj\\Debug"
+  ],
+  "PreviewInSolutionExplorer": false
+}
